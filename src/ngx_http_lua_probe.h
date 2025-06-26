@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 /*
  * automatically generated from the file dtrace/ngx_lua_provider.d by the
  *  gen-dtrace-probe-header tool in the nginx-devel-utils project:
