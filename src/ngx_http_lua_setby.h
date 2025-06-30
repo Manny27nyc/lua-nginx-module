@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef _NGX_HTTP_LUA_SET_BY_H_INCLUDED_
 #define _NGX_HTTP_LUA_SET_BY_H_INCLUDED_
 

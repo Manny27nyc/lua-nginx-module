@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * This fake module was used to reproduce a bug in ngx_lua's
  * init_worker_by_lua implementation.

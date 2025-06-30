@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * This fake_delayed_load delayed load module was used to reproduce
  * a bug in ngx_lua's function ngx_http_lua_add_package_preload.

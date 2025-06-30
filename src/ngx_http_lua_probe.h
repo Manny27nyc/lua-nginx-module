@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * automatically generated from the file dtrace/ngx_lua_provider.d by the
  *  gen-dtrace-probe-header tool in the nginx-devel-utils project:
